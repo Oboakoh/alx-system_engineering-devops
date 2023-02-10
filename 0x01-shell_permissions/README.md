@@ -5,3 +5,5 @@ task3 - script for changing the owner of a file betty
 task4 - script for creating file called hello
 task5 - script for adding the execute permission to the owner of the file
 task6 - script for execute permission to owner and group ownera buh read only to others
+task7 - execution permission to owner, group and the world 
+task8- excution permission to world only
